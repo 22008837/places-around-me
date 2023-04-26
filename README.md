@@ -16,6 +16,7 @@ Run the django server and execute the HTML files.
 ## Code:
 
 ## Map.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,8 +41,10 @@ Run the django server and execute the HTML files.
 </center>
 </body>
 </html>
+```
 
 ## Church.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -65,8 +68,10 @@ CHURCH
 </p>
 </body>
 </html>
+```
 
 ## Hospital.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -90,8 +95,10 @@ HOSPITAL
 </p>
 </body>
 </html>
+```
 
 ## Hotel.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -115,8 +122,10 @@ HOTEL
 </p>
 </body>
 </html>
+```
 
 ## School.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -140,8 +149,10 @@ SCHOOL
 </p>
 </body>
 </html>
+```
 
 ## Theatre.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -165,6 +176,7 @@ THEATRE
 </p>
 </body>
 </html>
+```
 
 ## Output:
 ![map my city](https://user-images.githubusercontent.com/120194155/234469313-1327b49c-5353-4a4a-93ab-7f0b14e49021.png)
